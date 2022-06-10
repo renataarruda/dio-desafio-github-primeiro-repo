@@ -1,0 +1,14 @@
+Anotações
+
+Link para download do Git: https://github.com/git-guides/install-git
+
+O Git é um versionador de códigos.
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Funcionamento do Git:
+
+- SHA1
+- Objetos fundamentais
+- Sistema distribuído
+- Segurança
